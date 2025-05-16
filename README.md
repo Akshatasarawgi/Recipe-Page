@@ -9,7 +9,7 @@ Created a static Recipe page, styled using CSS.
 
 ### Links
 - Solution URL: [https://github.com/Akshatasarawgi/Recipe-Page]
-- Live Site URL: 
+- Live Site URL: [https://recipepagefem.netlify.app]
 
 ### Built with
 
